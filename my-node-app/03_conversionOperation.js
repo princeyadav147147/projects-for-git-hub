@@ -20,7 +20,7 @@ let booleanIsLoggedIn = Boolean(isLoggedIn)
 // "" => false
 // "prince" => true
 
-let some Number =33
+let someNumber =33
 
 let stringNumber = String(someNumber)
 console.log(stringNumber);
