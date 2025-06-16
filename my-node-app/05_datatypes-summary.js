@@ -34,3 +34,35 @@ const bigNumber = 3425687944456214321448323443233846513433321548n
  console.log(typeof bigNumber);
  
  // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+
+
+ // +++++++++++++++++++++++++++++++++++++
+
+ // stack (primitive)vs heap (non primitive)
+
+ let myYoutubename = "princeanime"
+
+
+ let anothername = myYoutubename
+ anothername = "motiva"
+
+ console.log(myYoutubename);
+ console.log(anothername);
+
+ let userOne = {
+      email: "user@google.com",
+      password: "123456"
+
+ }
+
+ let userTwo = userOne
+
+ userTwo.email = "prince@1234google.com"
+
+ console.log(userOne);
+ console.log(userTwo);
+
+ 
+ 
+ 
