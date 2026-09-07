@@ -66,4 +66,15 @@
 ## 4.6 Top-Performing Pizzas
 ### The Thai Chicken Pizza is the single highest revenue earner ($43,434), followed closely by The Barbecue Chicken Pizza ($42,768) and The California Chicken Pizza ($41,410). By volume, The Classic Deluxe Pizza sells the most units (2,453), narrowly ahead of The Barbecue Chicken Pizza (2,432) and The Hawaiian Pizza (2,422) — indicating that premium/specialty pizzas earn more per unit even at comparable or slightly lower volumes.
 
+## 5. Conclusion
+### ●	Ohayo Pizzas generated $817,860.05 in total revenue from 21,350 orders in 2015, at an average order value of $38.31.
+### ●	Classic and Supreme pizzas are the top revenue categories, though all four categories are closely matched.
+### ●	Large-size pizzas are the clear revenue driver, contributing nearly half of all sales.
+### ●	Chicken-category specialty pizzas (Thai Chicken, Barbecue Chicken, California Chicken) punch above their weight, generating outsized revenue relative to volume.
+### ●	Demand peaks on Thursday through Saturday and dips on Sunday, a pattern that should inform staffing and inventory decisions.
+### ●	Monthly revenue is stable year-round with no strong seasonal swings, aside from a modest summer (July) peak and a autumn (Sep–Oct) dip.
+
+#### Recommendation: Ohayo Pizzas should focus promotions on driving further Large-size upgrades, protect and market its top Chicken-category pizzas which deliver strong revenue per unit, and align staffing and inventory more heavily toward Thursday–Saturday demand.
+
+
 
